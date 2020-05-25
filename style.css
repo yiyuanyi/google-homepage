@@ -63,3 +63,21 @@ body {
     margin-top: 30px;
     margin-left: 10px;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-top: solid 1px #e4e4e4;
+}
+
+.f-link {
+    text-decoration: none;
+    color: rgb(95, 99, 104);
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
